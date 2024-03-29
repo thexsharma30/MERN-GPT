@@ -1,3 +1,4 @@
+
 ## MERN-GPT
 
 Welcome to MERN-GPT! This innovative project seamlessly combines the power of the MERN stack with OpenAI's GPT, resulting in a chat experience like no other.
@@ -12,6 +13,19 @@ MERN-GPT is a groundbreaking platform that merges the capabilities of the MERN (
 - **Intelligent Conversations:** Utilizes state-of-the-art natural language processing for dynamic interactions.
 - **Personalized Experience:** Tailors conversations to each user's preferences and style.
 - **User-Friendly Interface:** Ensures a smooth and intuitive chat experience for all users.
+
+## User Interface
+
+The user interface of MERN-GPT is designed to be intuitive and easy to use. Here are some key components:
+
+- **Chat Window:** Displays the conversation between the user and the chatbot.
+- **Input Field:** Allows users to type messages and interact with the chatbot.
+- **Personalization Options:** Users can customize their chat experience by providing preferences or selecting options from predefined choices.
+- **Feedback Mechanism:** Users can provide feedback on the chatbot's responses, helping to improve future interactions.
+- ![image](https://github.com/thexsharma30/MERN-GPT/assets/141563537/dae023c3-3fd9-4d3a-8ffc-9330706ade90)
+- ![image](https://github.com/thexsharma30/MERN-GPT/assets/141563537/ee259456-4c4f-4efb-95ba-0d31a98426f8)
+
+
 
 ## Getting Started
 
@@ -57,4 +71,4 @@ Hey there! I'm Amar Sharma, the mastermind behind MERN-GPT. Connect with me on:
 This project is licensed under the [MIT License](LICENSE). Feel free to explore, innovate, and create!
 ```
 
-Feel free to use this README file in your project!
+Feel free to use this updated README file for your project!
