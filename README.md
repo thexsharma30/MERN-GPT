@@ -23,7 +23,9 @@ The user interface of MERN-GPT is designed to be intuitive and easy to use. Here
 - **Personalization Options:** Users can customize their chat experience by providing preferences or selecting options from predefined choices.
 - **Feedback Mechanism:** Users can provide feedback on the chatbot's responses, helping to improve future interactions.
 - ![image](https://github.com/thexsharma30/MERN-GPT/assets/141563537/dae023c3-3fd9-4d3a-8ffc-9330706ade90)
+- ![image](https://github.com/thexsharma30/MERN-GPT/assets/141563537/47044362-dafe-4ea5-8b84-1c4cb26a64ce)
 - ![image](https://github.com/thexsharma30/MERN-GPT/assets/141563537/ee259456-4c4f-4efb-95ba-0d31a98426f8)
+
 
 
 
