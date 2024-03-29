@@ -1,7 +1,4 @@
-Certainly! Here's the full README file for your MERN-GPT project:
-
-```markdown
-# MERN-GPT
+#MERN-GPT
 
 Welcome to MERN-GPT! This innovative project seamlessly combines the power of the MERN stack with OpenAI's GPT, resulting in a chat experience like no other.
 
